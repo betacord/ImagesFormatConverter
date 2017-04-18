@@ -1,0 +1,7 @@
+#recovery dir
+/__recovery/*
+
+#history, recovery and output dirs
+/konwersja_obrazow/__history
+/konwersja_obrazow/__recovery
+/konwersja_obrazow/Win32

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.563,=C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\konwersja_obrazow\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,=C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\konwersja_obrazow\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\konwersja_obrazow\Unit1.pas=C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\konwersja_obrazow\UPliki.pas=C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\konwersja_obrazow\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.871,C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\konwersja_obrazow\convert.dproj=C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.421,=C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\konwersja_obrazow\Unit1.dfm=C:\Users\t-krz\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
